@@ -22,9 +22,8 @@ color: white;
 
 }
 
-.mapouter {
-  size: 120%;
-  width: 120%;
+.iframe {
+  width: 70%;
   max-width: 820px;
   display: flex;
   margin-left: auto;
@@ -33,10 +32,3 @@ color: white;
   padding-bottom: 45px;
 
 }
-
-/* .nav-item2 {
-
-  display: flex;
-  text-align: end;
-
-} */
